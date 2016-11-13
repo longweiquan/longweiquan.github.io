@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dragon Egg</title>
+  <subtitle>Tech blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://longweiquan.github.com/"/>
+  <updated>2016-11-13T00:04:35.000Z</updated>
+  <id>http://longweiquan.github.com/</id>
+  
+  <author>
+    <name>Weiquan LONG</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>&lt;Getting Things Done&gt; 听书笔记</title>
+    <link href="http://longweiquan.github.com/2016/11/12/getting-things-done-listening-notes/"/>
+    <id>http://longweiquan.github.com/2016/11/12/getting-things-done-listening-notes/</id>
+    <published>2016-11-12T20:44:09.000Z</published>
+    <updated>2016-11-13T00:04:35.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是听樊登读 “Getting Things Done” 的听书笔记. 这是一本关于时间管理的书，又是一本超出时间管理的书，让我们看看作者的具体观点。</p>
+<a id="more"></a>
+<h2 id="请看这里"><a href="#请看这里" class="headerlink" title="请看这里"></a>请看这里</h2><ul>
+<li>本文是樊登读书笔记的再笔记，是樊登笔记和个人体会的融合，不完全忠实原著和樊登的观点，请分别对待。</li>
+<li>本文大量使用樊登读书会的读书心得，原文请参考得到应用的樊登订阅栏目。</li>
+<li>本文目的是整理笔记，训练写作能力，如有兴趣一起学习，请留言或邮件联系本人。</li>
+</ul>
+<h2 id="导读"><a href="#导读" class="headerlink" title="导读"></a>导读</h2><p>如果你觉得自己有拖延症；如果你希望提高自己的效率，完成更多的任务；如果你想保持头脑清醒，自如地控制自己完成更多的挑战。
+那么你将面对一个不可避免的课题 – 时间管理。</p>
+<p>但是传统的时间管理方法，像番茄工作法或者合理的制定计划， 并没有让实践者提高效率，而且往往变得更加焦虑，更加容易放弃。
+那是因为大家往往忽略了一个重要的因素, 那就是人的情绪，人的情绪才是工作低效的真正内因。</p>
+<p>针对这个问题，作者戴维.艾伦(David Allen)试图通过他的著作<getting things="" done="">, 来解析焦虑的成因, 以及解决方法。</getting></p>
+<h2 id="心如止水"><a href="#心如止水" class="headerlink" title="心如止水"></a>心如止水</h2><p>心如止水是一种很高超的生活状态。想象把一颗石头投入一个寂静的池塘，会有什么反应？池塘将根据石头的质量和速度产生波澜与声音,
+然后慢慢的归于平静，池塘的反应恰到好处，既不惜力，也不过激，这是大自然的厚重。</p>
+<p>其实做人处事也当如此，面对工作, 家庭，面对老板，爱人或孩子，面对褒扬与批评，都应该恰如其分去处理，既不该不屑一顾，也不该过分关注。
+心如止水正是处理和面对事务的最佳状态，是避免焦虑和低效的根本解决办法。</p>
+<p>孔子所说的中庸之道与心如止水的境界有异曲同工之妙。</p>
+<h2 id="有效处理承诺"><a href="#有效处理承诺" class="headerlink" title="有效处理承诺"></a>有效处理承诺</h2><p>人们的压力往往来源于承诺或承担义务的管理不当。学会对 “悬而未决的问题” 加以控制可以有效地缓解压力。</p>
+<p>什么是 “悬而未决的问题” ？我认为就是时间管理里所说的 “重要但不紧急的事情” ，像学习是重要但不紧急的事情，
+或者两天后的一个会议也是重要但不紧急的事情。这些事情会或多或少的占用人们的注意力，
+导致人们无法专心于当下的工作，降低效率，导致工作积累越来越多，形成恶性循环。所以高效的最大障碍是处理好这些 “悬而未决的事情”</p>
+<p>以下措施可以有效的管理 “悬而未决的事情”:</p>
+<p>第一，收集那些经常引起你模糊记忆的事情，并且把它们都放在一个工作篮当中，经常访问并清理它。</p>
+<p>第二，必须明白工作到底是什么，并作出判断，需要采取什么行动来推动工作。</p>
+<p>第三，一旦决定了行动方案，必须在经常查阅的体系中安排好行动提示。</p>
+<h2 id="聚焦当前工作"><a href="#聚焦当前工作" class="headerlink" title="聚焦当前工作"></a>聚焦当前工作</h2><p>一般认为最恰当的做事方法是：先确定总体目标再确定实施细节。但从经验上看，更实用的方法是：直接从当前最底层的任务直接入手。</p>
+<p>从行动管理的角度看，人们必须把一切长远目标赶出大脑， 凭直觉挑选要执行的任务，然后集中精力去执行当前的任务。
+人们的意识类似于计算机中CPU， 一个适合处理的工具，但不适合储存。 为了让CPU高效的运转，必须保证RAM中保存的任务尽可能少。</p>
+<p>人们往往喜欢重新思考那些行动的来龙去脉，但其实同一个行动不需要被大脑处理两遍，甚至多遍，这往往是错误的任务安排或者错误的行动方式导致的。
+而执行是最好的帮助思考和制定下一步计划的方法。</p>
+<h2 id="准备工作：确定时间，空间和工具"><a href="#准备工作：确定时间，空间和工具" class="headerlink" title="准备工作：确定时间，空间和工具"></a>准备工作：确定时间，空间和工具</h2><p>要为自己提供一个合适的工作区，工作区应该提前准备好各种软硬件，像纸，笔，电脑等，能够让大大降低处理事情过程中产生的抵情绪，甚至吸引自己工作，加快工作节奏。</p>
+<h2 id="收集阶段：归拢材料"><a href="#收集阶段：归拢材料" class="headerlink" title="收集阶段：归拢材料"></a>收集阶段：归拢材料</h2><p>我们需要收集一切引起我们之一的事物的信息，无论大小，轻重，缓急，并将它们放在大脑以外的某个地方，例如工作篮中。然后要定期清空，保证大脑干净高效。
+对于材料的收集，建议实用白纸记录，然后每张白纸只记录一个事情，空白的地方可以记录事情的经过以及相关的参考资料。
+每当处理完一个事情以后，就可以把对应的白纸扔掉，或者保存在已处理的任务当中。</p>
+<h2 id="处理阶段：清空工作篮"><a href="#处理阶段：清空工作篮" class="headerlink" title="处理阶段：清空工作篮"></a>处理阶段：清空工作篮</h2><p>处理工作篮有3个原则：</p>
+<ol>
+<li>从工作篮最上面的事物开始</li>
+<li>一次做一件事</li>
+<li>永远不要把事务再次放到工作篮中</li>
+</ol>
+<p>处理工程中经常面临的关键问题 “下一步的行动是什么” ？有两种情况：</p>
+<ul>
+<li>如果能找到下一步， 那么只有以下三种选择：立即行动， 指派他人或延迟处理</li>
+<li>也有不需要行动的任务，要对它们进行分辨：垃圾或酝酿</li>
+</ul>
+<h2 id="组织整理：建立好清单"><a href="#组织整理：建立好清单" class="headerlink" title="组织整理：建立好清单"></a>组织整理：建立好清单</h2><p>从直至整理的角度来看， 需要跟踪和管理的事情可以费为7类： </p>
+<ul>
+<li>项目清单</li>
+<li>项目的辅助资料</li>
+<li>记录在日程的行动</li>
+<li>下一步行动清单</li>
+<li>等待清单</li>
+<li>参考资料</li>
+<li>将来／或许清单</li>
+</ul>
+<p>保持清单界限分明，是整个组织整理工作中最重要的一部分。</p>
+<h2 id="检查回顾：-保障系统有效运行"><a href="#检查回顾：-保障系统有效运行" class="headerlink" title="检查回顾： 保障系统有效运行"></a>检查回顾： 保障系统有效运行</h2><p>回顾涉及两个问题：</p>
+<ul>
+<li>要查看日程表，清单，以及回顾部分关键内容</li>
+<li>每周回顾一次那些悬而未决的事情</li>
+</ul>
+<h2 id="执行阶段：选择最合适的行动"><a href="#执行阶段：选择最合适的行动" class="headerlink" title="执行阶段：选择最合适的行动"></a>执行阶段：选择最合适的行动</h2><p>书中提及非常详细的执行规则，但我认为有更简单的原则，就是</p>
+<ul>
+<li>每次只完成一个任务，而且必须完成。</li>
+<li>如果是在无法完成，应当花时间重新规划任务，但无比让任务在最短的时间内实现阶段性的完成。</li>
+</ul>
+<p>要合理安排任务，分配时间
+对于一些重要的任务， 例如会议于谈判， 需要在日程表上预留时间，为谈判作准备，这样它将从眼下消失，又不会忘记谈判准备。</p>
+<h2 id="计划模式"><a href="#计划模式" class="headerlink" title="计划模式"></a>计划模式</h2><p>大脑处理目标总是要经历以下五个阶段：</p>
+<ol>
+<li>定义目标和原则</li>
+<li>展望结果</li>
+<li>头脑风暴</li>
+<li>组织整理</li>
+<li>行动方案</li>
+</ol>
+<p>其中头脑风暴非常重要，它不仅能够捕捉新颖独特的想法， 还能启发更多的好主意。头脑风暴有3个技巧:</p>
+<ul>
+<li>不判断, 不质疑，不评估，不批评</li>
+<li>罗列方案， 追求数量</li>
+<li>把分析组织工作至于次要地位</li>
+</ul>
+<h2 id="为什么越是精明的人，延误的事越多？"><a href="#为什么越是精明的人，延误的事越多？" class="headerlink" title="为什么越是精明的人，延误的事越多？"></a>为什么越是精明的人，延误的事越多？</h2><p>聪明人往往在多列的清单上未解决和未决定的事情的数量最多，这是因为它们的感悟能力可以在大脑中充分地展现出
+工作时将会遇到的昆兰，以及中左失败会带来的负面影响，而导致躁动不安，旋即放弃。</p>
+<p>因此，从底层入手往往能获得以外的行动效果，使人专注于行动，避免过早的陷入负面情绪。</p>
+<p>另外，所谓的负面判断像乐观判断一样往往是不靠谱，我们要学会关注事情的结果，学会作出有效的预期。</p>
+<h2 id="感悟于总结"><a href="#感悟于总结" class="headerlink" title="感悟于总结"></a>感悟于总结</h2><ol>
+<li>效率的堵人是烦躁，解决的办法是专注</li>
+<li>大脑要干净，心境要止水，办事要专注，行动要彻底</li>
+<li>规划可以辅助建立更良好的行动，行动可以让规划更接近实际。但过度规划往往是行动杀手，切记以行动驱动规划。</li>
+</ol>
+<p>最后，为了方便大脑体会，我选择把这套方法称做”像机器人一样工作”，因为机器人执行为王，有条不紊，不带情绪。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这是听樊登读 “Getting Things Done” 的听书笔记. 这是一本关于时间管理的书，又是一本超出时间管理的书，让我们看看作者的具体观点。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Reading, Effectiveness" scheme="http://longweiquan.github.com/tags/Reading-Effectiveness/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode - Skyline</title>
+    <link href="http://longweiquan.github.com/2015/08/31/Skyline/"/>
+    <id>http://longweiquan.github.com/2015/08/31/Skyline/</id>
+    <published>2015-08-30T23:03:19.000Z</published>
+    <updated>2015-10-23T22:00:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h2><blockquote><p>The Skyline Problem. Please reference to LeetCode for the detail.</p>
+<footer><strong>@LeetCode</strong><cite><a href="https://leetcode.com/problems/the-skyline-problem/" target="_blank" rel="external">leetcode.com/problems/the-skyline-problem</a></cite></footer></blockquote>
+<h2 id="Solution-in-Java"><a href="#Solution-in-Java" class="headerlink" title="Solution in Java"></a>Solution in Java</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div></pre></td><td class="code"><pre><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">Edge</span></span>&#123;</div><div class="line">    <span class="keyword">int</span> x;</div><div class="line">    <span class="keyword">int</span> y;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">public</span> <span class="title">Edge</span><span class="params">(<span class="keyword">int</span> x, <span class="keyword">int</span> y)</span> </span>&#123;</div><div class="line">        <span class="keyword">this</span>.x = x;</div><div class="line">        <span class="keyword">this</span>.y = y;</div><div class="line">    &#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="keyword">public</span> List&lt;<span class="keyword">int</span>[]&gt; getSkyline(<span class="keyword">int</span>[][] buildings) &#123;</div><div class="line"></div><div class="line">    <span class="keyword">if</span>(buildings.length == <span class="number">0</span>)&#123;</div><div class="line">        <span class="keyword">return</span> <span class="keyword">new</span> ArrayList&lt;&gt;();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">// collect edges and mark ending edge with negative height</span></div><div class="line">    List&lt;Edge&gt; edges = <span class="keyword">new</span> ArrayList&lt;&gt;();</div><div class="line">    <span class="keyword">for</span>(<span class="keyword">int</span>[] building: buildings)&#123;</div><div class="line">        edges.add(<span class="keyword">new</span> Edge(building[<span class="number">0</span>], building[<span class="number">2</span>]));</div><div class="line">        edges.add(<span class="keyword">new</span> Edge(building[<span class="number">1</span>], -building[<span class="number">2</span>]));</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">// sort edges by position in ascending and height in descending</span></div><div class="line">    edges.sort((e1, e2) -&gt; &#123;</div><div class="line">        <span class="keyword">if</span> (e1.x != e2.x) &#123;</div><div class="line">            <span class="keyword">return</span> e1.x - e2.x;</div><div class="line">        &#125; <span class="keyword">else</span> &#123;</div><div class="line">            <span class="keyword">return</span> e2.y - e1.y;</div><div class="line">        &#125;</div><div class="line">    &#125;);</div><div class="line"></div><div class="line">    List&lt;<span class="keyword">int</span>[]&gt; results = <span class="keyword">new</span> ArrayList&lt;&gt;();</div><div class="line">    <span class="comment">// heap ordered by height in descending</span></div><div class="line">    Queue&lt;Integer&gt; heap = <span class="keyword">new</span> PriorityQueue&lt;&gt;((x1,x2)-&gt;x2-x1);</div><div class="line"></div><div class="line">    <span class="keyword">for</span>(Edge edge: edges)&#123;</div><div class="line"></div><div class="line">        <span class="keyword">if</span>(edge.y &gt; <span class="number">0</span>)&#123;</div><div class="line">            <span class="keyword">if</span>(heap.isEmpty() || edge.y &gt; heap.peek())&#123;</div><div class="line">                results.add(<span class="keyword">new</span> <span class="keyword">int</span>[]&#123;edge.x, edge.y&#125;);</div><div class="line">            &#125;</div><div class="line">            heap.add(edge.y);</div><div class="line">        &#125; <span class="keyword">else</span> &#123;</div><div class="line">            <span class="keyword">int</span> height = -edge.y;</div><div class="line">            heap.remove(height);</div><div class="line"></div><div class="line">            <span class="keyword">if</span>(heap.isEmpty())&#123;</div><div class="line">                results.add(<span class="keyword">new</span> <span class="keyword">int</span>[]&#123;edge.x, <span class="number">0</span>&#125;);</div><div class="line">            &#125; <span class="keyword">else</span> <span class="keyword">if</span>(height &gt; heap.peek())&#123;</div><div class="line">                results.add(<span class="keyword">new</span> <span class="keyword">int</span>[]&#123;edge.x, heap.peek()&#125;);</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">    <span class="keyword">return</span> results;</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Problem&quot;&gt;&lt;a href=&quot;#Problem&quot; class=&quot;headerlink&quot; title=&quot;Problem&quot;&gt;&lt;/a&gt;Problem&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;The Skyline Problem. Please reference 
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://longweiquan.github.com/categories/LeetCode/"/>
+    
+    
+      <category term="Heap" scheme="http://longweiquan.github.com/tags/Heap/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode - Decode Ways</title>
+    <link href="http://longweiquan.github.com/2015/08/30/Decode-Ways/"/>
+    <id>http://longweiquan.github.com/2015/08/30/Decode-Ways/</id>
+    <published>2015-08-30T17:44:27.000Z</published>
+    <updated>2015-10-23T22:00:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h2><blockquote><p>A message containing letters from A-Z is being encoded to numbers using the following mapping:</p>
+<p>‘A’ -&gt; 1, ‘B’ -&gt; 2, …, ‘Z’ -&gt; 26</p>
+<p>Given an encoded message containing digits, determine the total number of ways to decode it.</p>
+<footer><strong>@LeetCode</strong><cite><a href="https://leetcode.com/problems/decode-ways/" target="_blank" rel="external">leetcode.com/problems/decode-ways</a></cite></footer></blockquote>
+<h2 id="Solution-in-Java"><a href="#Solution-in-Java" class="headerlink" title="Solution in Java"></a>Solution in Java</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">int</span> <span class="title">numDecodings</span><span class="params">(String s)</span> </span>&#123;</div><div class="line"></div><div class="line">    <span class="keyword">int</span> n = s.length();</div><div class="line">    <span class="keyword">if</span>(n == <span class="number">0</span>)&#123;</div><div class="line">        <span class="keyword">return</span> <span class="number">0</span>;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="keyword">int</span>[] dp = <span class="keyword">new</span> <span class="keyword">int</span>[n+<span class="number">1</span>];</div><div class="line">    dp[<span class="number">0</span>] = <span class="number">1</span>;</div><div class="line">    dp[<span class="number">1</span>] = s.charAt(<span class="number">0</span>) == <span class="string">'0'</span> ? <span class="number">0</span> : <span class="number">1</span>;</div><div class="line"></div><div class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">2</span>;i&lt;=n;i++)&#123;</div><div class="line"></div><div class="line">        String p1 = s.substring(i-<span class="number">1</span>, i);</div><div class="line">        <span class="keyword">if</span>(dp[i-<span class="number">1</span>] &gt; <span class="number">0</span> &amp;&amp; p1.compareTo(<span class="string">"1"</span>) &gt;= <span class="number">0</span> &amp;&amp; p1.compareTo(<span class="string">"9"</span>) &lt;= <span class="number">0</span>)&#123;</div><div class="line">            dp[i] += dp[i-<span class="number">1</span>];</div><div class="line">        &#125;</div><div class="line"></div><div class="line">        String p2 = s.substring(i-<span class="number">2</span>, i);</div><div class="line">        <span class="keyword">if</span>(dp[i-<span class="number">2</span>] &gt; <span class="number">0</span> &amp;&amp; p2.compareTo(<span class="string">"10"</span>) &gt;= <span class="number">0</span> &amp;&amp; p2.compareTo(<span class="string">"26"</span>) &lt;= <span class="number">0</span>)&#123;</div><div class="line">            dp[i] += dp[i-<span class="number">2</span>];</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">    <span class="keyword">return</span> dp[n];</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Problem&quot;&gt;&lt;a href=&quot;#Problem&quot; class=&quot;headerlink&quot; title=&quot;Problem&quot;&gt;&lt;/a&gt;Problem&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;A message containing letters from A-Z 
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://longweiquan.github.com/categories/LeetCode/"/>
+    
+    
+      <category term="Dynamic Programming" scheme="http://longweiquan.github.com/tags/Dynamic-Programming/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode - Course Schedule II</title>
+    <link href="http://longweiquan.github.com/2015/08/30/Course-Schedule-II/"/>
+    <id>http://longweiquan.github.com/2015/08/30/Course-Schedule-II/</id>
+    <published>2015-08-30T16:57:14.000Z</published>
+    <updated>2015-10-23T22:00:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h2><blockquote><p>There are a total of n courses you have to take, labeled from 0 to n - 1.</p>
+<p>Some courses may have prerequisites, for example to take course 0 you have to first take course 1, which is expressed as a pair: [0,1]</p>
+<p>Given the total number of courses and a list of prerequisite pairs, return the ordering of courses you should take to finish all courses.</p>
+<p>There may be multiple correct orders, you just need to return one of them. If it is impossible to finish all courses, return an empty array.</p>
+<footer><strong>@LeetCode</strong><cite><a href="https://leetcode.com/problems/course-schedule-ii/" target="_blank" rel="external">leetcode.com/problems/course-schedule-ii</a></cite></footer></blockquote>
+<h2 id="Solution-in-Java"><a href="#Solution-in-Java" class="headerlink" title="Solution in Java"></a>Solution in Java</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="keyword">int</span>[] findOrder(<span class="keyword">int</span> numCourses, <span class="keyword">int</span>[][] prerequisites) &#123;</div><div class="line"></div><div class="line">    <span class="comment">// count courses' prerequisites</span></div><div class="line">    <span class="keyword">int</span>[] pc = <span class="keyword">new</span> <span class="keyword">int</span>[numCourses];</div><div class="line">    <span class="keyword">for</span>(<span class="keyword">int</span>[] p: prerequisites)&#123;</div><div class="line">        pc[p[<span class="number">0</span>]]++;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">// add no prerequisite course to the final order</span></div><div class="line">    List&lt;Integer&gt; order = <span class="keyword">new</span> LinkedList&lt;&gt;();</div><div class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;numCourses;i++)&#123;</div><div class="line">        <span class="keyword">if</span>(pc[i] == <span class="number">0</span>)&#123;</div><div class="line">            order.add(i);</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">// Initialize a queue of no prerequisite course</span></div><div class="line">    LinkedList&lt;Integer&gt; queue = <span class="keyword">new</span> LinkedList&lt;&gt;(order);</div><div class="line"></div><div class="line">    <span class="comment">// BFS search for the final order</span></div><div class="line">    <span class="keyword">while</span>(!queue.isEmpty())&#123;</div><div class="line">        <span class="keyword">int</span> npCourse = queue.removeFirst();</div><div class="line">        <span class="keyword">for</span>(<span class="keyword">int</span>[] p: prerequisites)&#123;</div><div class="line">            <span class="keyword">if</span>(p[<span class="number">1</span>] == npCourse)&#123;</div><div class="line">                <span class="keyword">int</span> pCourse = p[<span class="number">0</span>];</div><div class="line">                pc[pCourse]--;</div><div class="line">                <span class="keyword">if</span>(pc[pCourse] == <span class="number">0</span>)&#123;</div><div class="line">                    queue.add(pCourse);</div><div class="line">                    order.add(pCourse);</div><div class="line">                &#125;</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="keyword">if</span>(order.size() == numCourses)&#123;</div><div class="line">        <span class="keyword">return</span> order.stream().mapToInt(i-&gt;i).toArray();</div><div class="line">    &#125; <span class="keyword">else</span> &#123;</div><div class="line">        <span class="keyword">return</span> <span class="keyword">new</span> <span class="keyword">int</span>[<span class="number">0</span>];</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Problem&quot;&gt;&lt;a href=&quot;#Problem&quot; class=&quot;headerlink&quot; title=&quot;Problem&quot;&gt;&lt;/a&gt;Problem&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;There are a total of n courses you hav
+    
+    </summary>
+    
+    
+      <category term="BFS" scheme="http://longweiquan.github.com/tags/BFS/"/>
+    
+      <category term="Graph" scheme="http://longweiquan.github.com/tags/Graph/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode - Add and Search Word</title>
+    <link href="http://longweiquan.github.com/2015/08/30/Add-and-Search-Word/"/>
+    <id>http://longweiquan.github.com/2015/08/30/Add-and-Search-Word/</id>
+    <published>2015-08-30T11:19:13.000Z</published>
+    <updated>2015-10-23T22:00:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h2><blockquote><p>Design a data structure that supports the following two operations:</p>
+<ul>
+<li>void addWord(word)</li>
+<li>bool search(word)</li>
+</ul>
+<p>search(word) can search a literal word or a regular expression string containing only letters a-z or ‘.’. 
+A ‘.’ means it can represent any one letter.</p>
+<footer><strong>@LeetCode</strong><cite><a href="https://leetcode.com/problems/add-and-search-word-data-structure-design/" target="_blank" rel="external">leetcode.com/problems/add-and-search-word-data-structure-design</a></cite></footer></blockquote>
+<h2 id="Solution-in-Java"><a href="#Solution-in-Java" class="headerlink" title="Solution in Java"></a>Solution in Java</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">WordDictionary</span> </span>&#123;</div><div class="line"></div><div class="line">    TrieNode root = <span class="keyword">new</span> TrieNode();</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">addWord</span><span class="params">(String word)</span> </span>&#123;</div><div class="line">        TrieNode current = root;</div><div class="line">        <span class="keyword">for</span>(<span class="keyword">char</span> c: word.toCharArray())&#123;</div><div class="line">            <span class="keyword">if</span>(!current.children.containsKey(c))&#123;</div><div class="line">                TrieNode newNode = <span class="keyword">new</span> TrieNode();</div><div class="line">                newNode.value = c;</div><div class="line">                current.children.put(c, newNode);</div><div class="line">            &#125;</div><div class="line">            current = current.children.get(c);</div><div class="line">        &#125;</div><div class="line">        current.isWord = <span class="keyword">true</span>;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">boolean</span> <span class="title">search</span><span class="params">(String word)</span> </span>&#123;</div><div class="line">        <span class="keyword">return</span> dfs(word, root);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">private</span> <span class="keyword">boolean</span> <span class="title">dfs</span><span class="params">(String word, TrieNode node)</span></span>&#123;</div><div class="line">        <span class="keyword">if</span>(word.isEmpty())&#123;</div><div class="line">            <span class="keyword">return</span> node.isWord;</div><div class="line">        &#125;</div><div class="line"></div><div class="line">        <span class="keyword">char</span> c = word.charAt(<span class="number">0</span>);</div><div class="line">        <span class="keyword">if</span> (c == <span class="string">'.'</span>) &#123;</div><div class="line">            <span class="keyword">for</span> (TrieNode child : node.children.values()) &#123;</div><div class="line">                <span class="keyword">if</span> (dfs(word.substring(<span class="number">1</span>), child)) &#123;</div><div class="line">                    <span class="keyword">return</span> <span class="keyword">true</span>;</div><div class="line">                &#125;</div><div class="line">            &#125;</div><div class="line">            <span class="keyword">return</span> <span class="keyword">false</span>;</div><div class="line">        &#125; <span class="keyword">else</span> &#123;</div><div class="line">            <span class="keyword">return</span> node.children.containsKey(c) &amp;&amp; dfs(word.substring(<span class="number">1</span>), node.children.get(c));</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="class"><span class="keyword">class</span> <span class="title">TrieNode</span> </span>&#123;</div><div class="line">        <span class="keyword">char</span> value;</div><div class="line">        Map&lt;Character, TrieNode&gt; children = <span class="keyword">new</span> HashMap&lt;&gt;();</div><div class="line">        <span class="keyword">boolean</span> isWord = <span class="keyword">false</span>;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Problem&quot;&gt;&lt;a href=&quot;#Problem&quot; class=&quot;headerlink&quot; title=&quot;Problem&quot;&gt;&lt;/a&gt;Problem&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;Design a data structure that supports 
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://longweiquan.github.com/categories/LeetCode/"/>
+    
+    
+      <category term="Trie" scheme="http://longweiquan.github.com/tags/Trie/"/>
+    
+      <category term="Data Structure" scheme="http://longweiquan.github.com/tags/Data-Structure/"/>
+    
+      <category term="DFS" scheme="http://longweiquan.github.com/tags/DFS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode - Trie</title>
+    <link href="http://longweiquan.github.com/2015/08/30/Trie/"/>
+    <id>http://longweiquan.github.com/2015/08/30/Trie/</id>
+    <published>2015-08-30T11:13:54.000Z</published>
+    <updated>2015-10-23T22:00:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h2><blockquote><p>Implement a trie with insert, search, and startsWith methods.</p>
+<p>You may assume that all inputs are consist of lowercase letters a-z.</p>
+<footer><strong>@LeetCode</strong><cite><a href="https://leetcode.com/problems/implement-trie-prefix-tree/" target="_blank" rel="external">leetcode.com/problems/implement-trie-prefix-tree</a></cite></footer></blockquote>
+<h2 id="Solution-in-Java"><a href="#Solution-in-Java" class="headerlink" title="Solution in Java"></a>Solution in Java</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Trie</span> </span>&#123;</div><div class="line"></div><div class="line">    <span class="keyword">private</span> TrieNode root;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">public</span> <span class="title">Trie</span><span class="params">()</span> </span>&#123;</div><div class="line">        root = <span class="keyword">new</span> TrieNode();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">insert</span><span class="params">(String word)</span> </span>&#123;</div><div class="line">        TrieNode current = root;</div><div class="line">        <span class="keyword">for</span>(<span class="keyword">char</span> c: word.toCharArray())&#123;</div><div class="line">            <span class="keyword">if</span>(!current.children.containsKey(c))&#123;</div><div class="line">                TrieNode newNode = <span class="keyword">new</span> TrieNode();</div><div class="line">                newNode.value = c;</div><div class="line">                current.children.put(c, newNode);</div><div class="line">            &#125;</div><div class="line">            current = current.children.get(c);</div><div class="line">        &#125;</div><div class="line">        current.isWord = <span class="keyword">true</span>;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">boolean</span> <span class="title">search</span><span class="params">(String word)</span> </span>&#123;</div><div class="line">        TrieNode current = getTrieNodeByPrefix(word);</div><div class="line">        <span class="keyword">return</span> current != <span class="keyword">null</span> &amp;&amp; current.isWord;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">boolean</span> <span class="title">startsWith</span><span class="params">(String prefix)</span> </span>&#123;</div><div class="line">        <span class="keyword">return</span> getTrieNodeByPrefix(prefix)  != <span class="keyword">null</span>;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">public</span> TrieNode <span class="title">getTrieNodeByPrefix</span><span class="params">(String prefix)</span> </span>&#123;</div><div class="line">        TrieNode current = root;</div><div class="line">        <span class="keyword">for</span>(<span class="keyword">char</span> c: prefix.toCharArray())&#123;</div><div class="line">            current = current.children.get(c);</div><div class="line">            <span class="keyword">if</span>(current == <span class="keyword">null</span>)&#123;</div><div class="line">                <span class="keyword">break</span>;</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">        <span class="keyword">return</span> current;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="class"><span class="keyword">class</span> <span class="title">TrieNode</span> </span>&#123;</div><div class="line">        <span class="keyword">char</span> value;</div><div class="line">        Map&lt;Character, TrieNode&gt; children = <span class="keyword">new</span> HashMap&lt;&gt;();</div><div class="line">        <span class="keyword">boolean</span> isWord = <span class="keyword">false</span>;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Problem&quot;&gt;&lt;a href=&quot;#Problem&quot; class=&quot;headerlink&quot; title=&quot;Problem&quot;&gt;&lt;/a&gt;Problem&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;Implement a trie with insert, search, 
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://longweiquan.github.com/categories/LeetCode/"/>
+    
+    
+      <category term="Trie" scheme="http://longweiquan.github.com/tags/Trie/"/>
+    
+      <category term="Data Structure" scheme="http://longweiquan.github.com/tags/Data-Structure/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode - Surrounded Regions</title>
+    <link href="http://longweiquan.github.com/2015/08/29/Surrounded-Regions/"/>
+    <id>http://longweiquan.github.com/2015/08/29/Surrounded-Regions/</id>
+    <published>2015-08-29T18:00:02.000Z</published>
+    <updated>2015-10-23T22:00:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h2><blockquote><p>Given a 2D board containing ‘X’ and ‘O’, capture all regions surrounded by ‘X’.</p>
+<p>A region is captured by flipping all ‘O’s into ‘X’s in that surrounded region.</p>
+<footer><strong>@LeetCode</strong><cite><a href="https://leetcode.com/problems/surrounded-regions/" target="_blank" rel="external">leetcode.com/problems/surrounded-regions</a></cite></footer></blockquote>
+<h2 id="Analyse"><a href="#Analyse" class="headerlink" title="Analyse"></a>Analyse</h2><p>Only the regions on the border can be retained. So we can flip the border ‘O’ by ‘#’, then flip all ‘O’ by ‘X’, then 
+flip all ‘#’ by ‘O’. The difficulty is how to flip the border ‘O’ region. DFS can resolve the problem, but will encounter 
+“Stack Overflow” problem when the data grid is large. BFS can avoid this problem, so it’s a good way to solve the
+problem.</p>
+<h2 id="Solution-in-Java"><a href="#Solution-in-Java" class="headerlink" title="Solution in Java"></a>Solution in Java</h2><figure class="highlight cs"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">solve</span>(<span class="params"><span class="keyword">char</span>[][] board</span>) </span>&#123;</div><div class="line"></div><div class="line">    <span class="keyword">if</span>(board == <span class="literal">null</span> || board.length == <span class="number">0</span>)&#123;</div><div class="line">        <span class="keyword">return</span>;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="keyword">int</span> m = board.length;</div><div class="line">    <span class="keyword">int</span> n = board[<span class="number">0</span>].length;</div><div class="line"></div><div class="line">    <span class="comment">// flag from boarder cases</span></div><div class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">0</span>; i&lt;m;i++)&#123;</div><div class="line">       <span class="keyword">for</span>(<span class="keyword">int</span> j = <span class="number">0</span>; j&lt;n;j++)&#123;</div><div class="line">           <span class="keyword">if</span>((i==<span class="number">0</span>||j==<span class="number">0</span>||i==m<span class="number">-1</span>||j==n<span class="number">-1</span>) &amp;&amp; board[i][j] == <span class="string">'O'</span>)&#123;</div><div class="line">               bfsFlag(board, i, j);</div><div class="line">           &#125;</div><div class="line">       &#125;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">// replace symbols</span></div><div class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">0</span>; i&lt;m; i++)&#123;</div><div class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> j = <span class="number">0</span>; j&lt;n; j++)&#123;</div><div class="line">            <span class="keyword">if</span>(board[i][j] == <span class="string">'O'</span>)&#123;</div><div class="line">                board[i][j] = <span class="string">'X'</span>;</div><div class="line">            &#125; <span class="function"><span class="keyword">else</span> <span class="title">if</span>(<span class="params">board[i][j] == <span class="string">'#'</span></span>)</span>&#123;</div><div class="line">                board[i][j] = <span class="string">'O'</span>;</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">bfsFlag</span>(<span class="params"><span class="keyword">char</span>[][] board, <span class="keyword">int</span> nodeX, <span class="keyword">int</span> nodeY</span>)</span>&#123;</div><div class="line"></div><div class="line">    LinkedList&lt;<span class="keyword">int</span>[]&gt; nodes = <span class="keyword">new</span> LinkedList&lt;&gt;();</div><div class="line">    nodes.<span class="keyword">add</span>(<span class="keyword">new</span> <span class="keyword">int</span>[]&#123;nodeX, nodeY&#125;);</div><div class="line"></div><div class="line">    <span class="keyword">while</span> (!nodes.isEmpty())&#123;</div><div class="line"></div><div class="line">        <span class="keyword">int</span>[] node = nodes.removeFirst();</div><div class="line">        <span class="keyword">int</span> x = node[<span class="number">0</span>];</div><div class="line">        <span class="keyword">int</span> y = node[<span class="number">1</span>];</div><div class="line"></div><div class="line">        <span class="keyword">if</span>(x &lt; <span class="number">0</span> || x &gt;= board.length || y&lt;<span class="number">0</span> || y &gt;= board[<span class="number">0</span>].length || board[x][y] != <span class="string">'O'</span>)&#123;</div><div class="line">            <span class="keyword">continue</span>;</div><div class="line">        &#125;</div><div class="line"></div><div class="line">        board[x][y] = <span class="string">'#'</span>;</div><div class="line">        nodes.<span class="keyword">add</span>(<span class="keyword">new</span> <span class="keyword">int</span>[]&#123;x<span class="number">-1</span>, y&#125;);</div><div class="line">        nodes.<span class="keyword">add</span>(<span class="keyword">new</span> <span class="keyword">int</span>[]&#123;x+<span class="number">1</span>, y&#125;);</div><div class="line">        nodes.<span class="keyword">add</span>(<span class="keyword">new</span> <span class="keyword">int</span>[]&#123;x, y<span class="number">-1</span>&#125;);</div><div class="line">        nodes.<span class="keyword">add</span>(<span class="keyword">new</span> <span class="keyword">int</span>[]&#123;x, y+<span class="number">1</span>&#125;);</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Problem&quot;&gt;&lt;a href=&quot;#Problem&quot; class=&quot;headerlink&quot; title=&quot;Problem&quot;&gt;&lt;/a&gt;Problem&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;Given a 2D board containing ‘X’ and ‘O
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://longweiquan.github.com/categories/LeetCode/"/>
+    
+    
+      <category term="BFS" scheme="http://longweiquan.github.com/tags/BFS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode - Word Ladder II</title>
+    <link href="http://longweiquan.github.com/2015/08/28/Word-Ladder-II/"/>
+    <id>http://longweiquan.github.com/2015/08/28/Word-Ladder-II/</id>
+    <published>2015-08-27T22:09:52.000Z</published>
+    <updated>2015-10-23T22:00:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h2><blockquote><p>Given two words (start and end), and a dictionary, find all shortest transformation sequence(s) from start to end, such that:</p>
+<ol>
+<li>Only one letter can be changed at a time</li>
+<li>Each intermediate word must exist in the dictionary</li>
+</ol>
+<footer><strong>@LeetCode</strong><cite><a href="https://leetcode.com/problems/word-ladder-ii/" target="_blank" rel="external">leetcode.com/problems/word-ladder-ii</a></cite></footer></blockquote>
+<h2 id="Solution-in-Java"><a href="#Solution-in-Java" class="headerlink" title="Solution in Java"></a>Solution in Java</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">WordLadderII</span> </span>&#123;</div><div class="line"></div><div class="line">    <span class="class"><span class="keyword">class</span> <span class="title">Node</span></span>&#123;</div><div class="line">        String word;</div><div class="line">        <span class="keyword">int</span> distance;</div><div class="line">        Node prev;</div><div class="line">        Node(String word, <span class="keyword">int</span> distance, Node prev)&#123;</div><div class="line">            <span class="keyword">this</span>.word = word;</div><div class="line">            <span class="keyword">this</span>.distance = distance;</div><div class="line">            <span class="keyword">this</span>.prev = prev;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="keyword">public</span> List&lt;List&lt;String&gt;&gt; findLadders(String start, String end, Set&lt;String&gt; dict) &#123;</div><div class="line"></div><div class="line">        LinkedList&lt;Node&gt; nodes = <span class="keyword">new</span> LinkedList&lt;&gt;();</div><div class="line">        nodes.add(<span class="keyword">new</span> Node(start, <span class="number">1</span>, <span class="keyword">null</span>));</div><div class="line">        dict.add(end);</div><div class="line"></div><div class="line">        Set&lt;String&gt; visited = <span class="keyword">new</span> HashSet&lt;&gt;();</div><div class="line">        List&lt;List&lt;String&gt;&gt; results = <span class="keyword">new</span> ArrayList&lt;&gt;();</div><div class="line">        <span class="keyword">int</span> currentDistance = <span class="number">1</span>;</div><div class="line">        <span class="keyword">int</span> endDistance = Integer.MAX_VALUE;</div><div class="line"></div><div class="line">        <span class="keyword">while</span> (!nodes.isEmpty())&#123;</div><div class="line"></div><div class="line">            Node node = nodes.removeFirst();</div><div class="line">            <span class="keyword">if</span>(node.word.equals(end))&#123;</div><div class="line">                List&lt;String&gt; result = <span class="keyword">new</span> LinkedList&lt;&gt;();</div><div class="line">                Node current = node;</div><div class="line">                <span class="keyword">while</span> (current != <span class="keyword">null</span>)&#123;</div><div class="line">                    result.add(<span class="number">0</span>, current.word);</div><div class="line">                    current = current.prev;</div><div class="line">                &#125;</div><div class="line">                results.add(result);</div><div class="line">                endDistance = node.distance;</div><div class="line">                <span class="keyword">continue</span>;</div><div class="line">            &#125;</div><div class="line"></div><div class="line">            <span class="keyword">if</span>(node.distance &gt; endDistance)&#123;</div><div class="line">                <span class="keyword">break</span>;</div><div class="line">            &#125;</div><div class="line"></div><div class="line">            <span class="keyword">if</span>(node.distance &gt; currentDistance)&#123;</div><div class="line">                currentDistance = node.distance;</div><div class="line">                dict.removeAll(visited);</div><div class="line">                visited.clear();</div><div class="line">            &#125;</div><div class="line"></div><div class="line">            <span class="keyword">char</span>[] chars = node.word.toCharArray();</div><div class="line">            <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>; i&lt;chars.length; i++)&#123;</div><div class="line">                <span class="keyword">char</span> temp = chars[i];</div><div class="line">                <span class="keyword">for</span>(<span class="keyword">char</span> c=<span class="string">'a'</span>; c&lt;=<span class="string">'z'</span>; c++)&#123;</div><div class="line">                    <span class="keyword">if</span>(temp != c)&#123;</div><div class="line">                        chars[i] = c;</div><div class="line"></div><div class="line">                        String word = String.valueOf(chars);</div><div class="line">                        <span class="keyword">if</span>(dict.contains(word))&#123;</div><div class="line">                            visited.add(word);</div><div class="line">                            nodes.add(<span class="keyword">new</span> Node(word, node.distance+<span class="number">1</span>, node));</div><div class="line">                        &#125;</div><div class="line">                    &#125;</div><div class="line">                &#125;</div><div class="line">                chars[i] = temp;</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line"></div><div class="line">        <span class="keyword">return</span> results;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Problem&quot;&gt;&lt;a href=&quot;#Problem&quot; class=&quot;headerlink&quot; title=&quot;Problem&quot;&gt;&lt;/a&gt;Problem&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;Given two words (start and end), and a
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://longweiquan.github.com/categories/LeetCode/"/>
+    
+    
+      <category term="BFS" scheme="http://longweiquan.github.com/tags/BFS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode - Word Ladder</title>
+    <link href="http://longweiquan.github.com/2015/08/28/Word-Ladder/"/>
+    <id>http://longweiquan.github.com/2015/08/28/Word-Ladder/</id>
+    <published>2015-08-27T22:06:50.000Z</published>
+    <updated>2015-10-23T22:00:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h2><blockquote><p>Given two words (beginWord and endWord), and a dictionary, find the length of shortest transformation sequence from beginWord to endWord, such that:</p>
+<ol>
+<li>Only one letter can be changed at a time</li>
+<li>Each intermediate word must exist in the dictionary</li>
+</ol>
+<footer><strong>@LeetCode</strong><cite><a href="https://leetcode.com/problems/word-ladder/" target="_blank" rel="external">leetcode.com/problems/word-ladder</a></cite></footer></blockquote>
+<h2 id="Solution-in-Java"><a href="#Solution-in-Java" class="headerlink" title="Solution in Java"></a>Solution in Java</h2><figure class="highlight arduino"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">class</span> Node&#123;</div><div class="line">    <span class="keyword">String</span> <span class="keyword">word</span>;</div><div class="line">    <span class="keyword">int</span> distance;</div><div class="line">    Node(<span class="keyword">String</span> <span class="keyword">word</span>, <span class="keyword">int</span> distance)&#123;</div><div class="line">        <span class="keyword">this</span>.<span class="keyword">word</span> = <span class="keyword">word</span>;</div><div class="line">        <span class="keyword">this</span>.distance = distance;</div><div class="line">    &#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="keyword">public</span> <span class="keyword">int</span> ladderLength(<span class="keyword">String</span> beginWord, <span class="keyword">String</span> endWord, Set&lt;<span class="keyword">String</span>&gt; wordDict) &#123;</div><div class="line"></div><div class="line">    LinkedList&lt;Node&gt; nodes = <span class="keyword">new</span> LinkedList&lt;&gt;();</div><div class="line">    nodes.add(<span class="keyword">new</span> Node(beginWord, <span class="number">1</span>));</div><div class="line">    wordDict.add(endWord);</div><div class="line"></div><div class="line">    <span class="built_in">while</span>(!nodes.isEmpty())&#123;</div><div class="line"></div><div class="line">        Node node = nodes.removeFirst();</div><div class="line"></div><div class="line">        <span class="built_in">if</span>(node.<span class="keyword">word</span>.equals(endWord))&#123;</div><div class="line">            <span class="built_in">return</span> node.distance;</div><div class="line">        &#125;</div><div class="line"></div><div class="line">        <span class="keyword">char</span>[] chars = node.<span class="keyword">word</span>.toCharArray();</div><div class="line">        <span class="built_in">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;chars.length;i++)&#123;</div><div class="line">            <span class="keyword">char</span> temp = chars[i];</div><div class="line">            <span class="built_in">for</span>(<span class="keyword">char</span> c=<span class="string">'a'</span>;c&lt;=<span class="string">'z'</span>;c++)&#123;</div><div class="line">                <span class="built_in">if</span>(temp != c)&#123;</div><div class="line">                    chars[i] = c;</div><div class="line"></div><div class="line">                    <span class="keyword">String</span> <span class="keyword">word</span> = <span class="keyword">String</span>.valueOf(chars);</div><div class="line">                    <span class="built_in">if</span>(wordDict.contains(<span class="keyword">word</span>))&#123;</div><div class="line">                        wordDict.<span class="built_in">remove</span>(<span class="keyword">word</span>);</div><div class="line">                        nodes.add(<span class="keyword">new</span> Node(<span class="keyword">word</span>, node.distance+<span class="number">1</span>));</div><div class="line">                    &#125;</div><div class="line">                &#125;</div><div class="line">            &#125;</div><div class="line">            chars[i] = temp;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">    <span class="built_in">return</span> <span class="number">0</span>;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Problem&quot;&gt;&lt;a href=&quot;#Problem&quot; class=&quot;headerlink&quot; title=&quot;Problem&quot;&gt;&lt;/a&gt;Problem&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;Given two words (beginWord and endWord
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://longweiquan.github.com/categories/LeetCode/"/>
+    
+    
+      <category term="BFS" scheme="http://longweiquan.github.com/tags/BFS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode - Count Primes</title>
+    <link href="http://longweiquan.github.com/2015/08/27/Count-Primes/"/>
+    <id>http://longweiquan.github.com/2015/08/27/Count-Primes/</id>
+    <published>2015-08-27T06:31:06.000Z</published>
+    <updated>2015-10-23T22:00:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h2><blockquote><p>Count the number of prime numbers less than a non-negative number, n.</p>
+<footer><strong>@LeetCode</strong><cite><a href="https://leetcode.com/problems/count-primes/" target="_blank" rel="external">leetcode.com/problems/count-primes</a></cite></footer></blockquote>
+<h2 id="Analyse"><a href="#Analyse" class="headerlink" title="Analyse"></a>Analyse</h2><p>Please reference to the <a href="https://en.wikipedia.org/wiki/Prime_number" target="_blank" rel="external">Prime Number Algorithm</a></p>
+<h2 id="Solution-in-Java"><a href="#Solution-in-Java" class="headerlink" title="Solution in Java"></a>Solution in Java</h2><figure class="highlight axapta"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="keyword">int</span> countPrimes(<span class="keyword">int</span> n) &#123;</div><div class="line"></div><div class="line">    <span class="keyword">boolean</span>[] multiples = <span class="keyword">new</span> <span class="keyword">boolean</span>[n];</div><div class="line"></div><div class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">2</span>;i*i&lt;n;i++)&#123;</div><div class="line">        <span class="keyword">if</span>(!multiples[i])&#123;</div><div class="line">            <span class="keyword">for</span>(<span class="keyword">int</span> j=i+i;j&lt;n;j+=i)&#123;</div><div class="line">                multiples[j] = <span class="keyword">true</span>;</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="keyword">int</span> <span class="keyword">count</span> = <span class="number">0</span>;</div><div class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">2</span>;i&lt;n;i++)&#123;</div><div class="line">        <span class="keyword">if</span>(!multiples[i])&#123;</div><div class="line">            <span class="keyword">count</span> += <span class="number">1</span>;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">    <span class="keyword">return</span> <span class="keyword">count</span>;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Problem&quot;&gt;&lt;a href=&quot;#Problem&quot; class=&quot;headerlink&quot; title=&quot;Problem&quot;&gt;&lt;/a&gt;Problem&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;Count the number of prime numbers less
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://longweiquan.github.com/categories/LeetCode/"/>
+    
+    
+      <category term="Math" scheme="http://longweiquan.github.com/tags/Math/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode - Word Break II</title>
+    <link href="http://longweiquan.github.com/2015/08/23/Word-Break-II/"/>
+    <id>http://longweiquan.github.com/2015/08/23/Word-Break-II/</id>
+    <published>2015-08-23T13:56:23.000Z</published>
+    <updated>2015-10-23T22:00:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h2><blockquote><p>Given a string s and a dictionary of words dict, add spaces in s to construct a sentence where each word 
+is a valid dictionary word. Return all such possible sentences.</p>
+<footer><strong>@LeetCode</strong><cite><a href="https://leetcode.com/problems/word-break-ii/" target="_blank" rel="external">leetcode.com/problems/word-break-ii</a></cite></footer></blockquote>
+<h2 id="Analyse"><a href="#Analyse" class="headerlink" title="Analyse"></a>Analyse</h2><p>It’s an upgrade version of <a href="/2015/08/23/Word-Break/" title="LeetCode - Word Break">LeetCode - Word Break</a>. Instead of boolean result, the second version ask for all possible
+solutions in string form. This time we need an array of string list as dp array, but it’s simpler to use Map in Java.</p>
+<p>The basic idea is the same as the version 1, so I won’t repeat here. But it’s not good enough in some special cases. We
+need optimizations.</p>
+<p>First optimization, we don’t need to verify any substring s[i..j]. We can limit i from j-maxWordLength to j-1.</p>
+<p>Second optimization, verify that a string is breakable before calculating the results. </p>
+<h2 id="Solution-in-Java"><a href="#Solution-in-Java" class="headerlink" title="Solution in Java"></a>Solution in Java</h2><figure class="highlight arduino"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> List&lt;<span class="keyword">String</span>&gt; wordBreak(<span class="keyword">String</span> s, Set&lt;<span class="keyword">String</span>&gt; wordDict) &#123;</div><div class="line"></div><div class="line">    <span class="keyword">int</span> maxWordLength = <span class="number">0</span>;</div><div class="line">    <span class="built_in">for</span>(<span class="keyword">String</span> <span class="keyword">word</span>: wordDict)&#123;</div><div class="line">        maxWordLength = Math.<span class="built_in">max</span>(maxWordLength, <span class="keyword">word</span>.length());</div><div class="line">    &#125;</div><div class="line">    <span class="keyword">int</span> n = s.length();</div><div class="line"></div><div class="line">    <span class="built_in">if</span>(n == <span class="number">0</span> || maxWordLength == <span class="number">0</span> || !<span class="built_in">isValid</span>(s, wordDict))&#123;</div><div class="line">        <span class="built_in">return</span> <span class="keyword">new</span> ArrayList&lt;&gt;();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    Map&lt;Integer, List&lt;<span class="keyword">String</span>&gt;&gt; dp = <span class="keyword">new</span> HashMap&lt;&gt;();</div><div class="line"></div><div class="line">    <span class="built_in">for</span>(<span class="keyword">int</span> j=<span class="number">1</span>;j&lt;=n;j++)&#123;</div><div class="line">        <span class="built_in">for</span>(<span class="keyword">int</span> i=j<span class="number">-1</span>; i&gt;=j-maxWordLength; i--)&#123;</div><div class="line">            <span class="built_in">if</span>((i==<span class="number">0</span> || dp.<span class="built_in">get</span>(i) != null) &amp;&amp; wordDict.contains(s.substring(i,j)))&#123;</div><div class="line"></div><div class="line">                <span class="comment">// init list</span></div><div class="line">                <span class="built_in">if</span>(dp.<span class="built_in">get</span>(j) == null)&#123;</div><div class="line">                    dp.<span class="built_in">put</span>(j, <span class="keyword">new</span> ArrayList&lt;&gt;());</div><div class="line">                &#125;</div><div class="line"></div><div class="line">                <span class="keyword">String</span> <span class="keyword">word</span> = s.substring(i, j);</div><div class="line">                <span class="built_in">if</span>(i == <span class="number">0</span>)&#123;</div><div class="line">                    dp.<span class="built_in">get</span>(j).add(<span class="keyword">word</span>);</div><div class="line">                &#125; <span class="built_in">else</span> &#123;</div><div class="line">                    <span class="built_in">for</span>(<span class="keyword">int</span> k=<span class="number">0</span>; k&lt;dp.<span class="built_in">get</span>(i).<span class="built_in">size</span>();k++)&#123;</div><div class="line">                        dp.<span class="built_in">get</span>(j).add(dp.<span class="built_in">get</span>(i).<span class="built_in">get</span>(k) + <span class="string">" "</span> + <span class="keyword">word</span>);</div><div class="line">                    &#125;</div><div class="line">                &#125;</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="built_in">if</span>(dp.<span class="built_in">get</span>(n) != null)&#123;</div><div class="line">        <span class="built_in">return</span> dp.<span class="built_in">get</span>(n);</div><div class="line">    &#125; <span class="built_in">else</span> &#123;</div><div class="line">        <span class="built_in">return</span> <span class="keyword">new</span> ArrayList&lt;&gt;();</div><div class="line">    &#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="keyword">private</span> <span class="keyword">boolean</span> <span class="built_in">isValid</span>(<span class="keyword">String</span> s, Set&lt;<span class="keyword">String</span>&gt; wordDict) &#123;</div><div class="line"></div><div class="line">    <span class="keyword">int</span> n = s.length();</div><div class="line">    <span class="keyword">boolean</span>[] dp = <span class="keyword">new</span> <span class="keyword">boolean</span>[n+<span class="number">1</span>];</div><div class="line"></div><div class="line">    <span class="built_in">for</span>(<span class="keyword">int</span> j = <span class="number">1</span>; j&lt;=n;j++)&#123;</div><div class="line">        <span class="built_in">for</span>(<span class="keyword">int</span> i=j<span class="number">-1</span>; i&gt;=<span class="number">0</span>; i--)&#123;</div><div class="line">            <span class="built_in">if</span>((i==<span class="number">0</span> || dp[i]) &amp;&amp; wordDict.contains(s.substring(i,j)))&#123;</div><div class="line">                dp[j] = true;</div><div class="line">                <span class="built_in">break</span>;</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">    <span class="built_in">return</span> dp[n];</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Problem&quot;&gt;&lt;a href=&quot;#Problem&quot; class=&quot;headerlink&quot; title=&quot;Problem&quot;&gt;&lt;/a&gt;Problem&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;Given a string s and a dictionary of w
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://longweiquan.github.com/categories/LeetCode/"/>
+    
+    
+      <category term="Dynamic Programming" scheme="http://longweiquan.github.com/tags/Dynamic-Programming/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode - Word Break</title>
+    <link href="http://longweiquan.github.com/2015/08/23/Word-Break/"/>
+    <id>http://longweiquan.github.com/2015/08/23/Word-Break/</id>
+    <published>2015-08-23T13:42:32.000Z</published>
+    <updated>2015-10-23T22:00:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h2><blockquote><p>Given a string s and a dictionary of words dict, determine if s can be segmented into a space-separated 
+sequence of one or more dictionary words.</p>
+<footer><strong>@LeetCode</strong><cite><a href="https://leetcode.com/problems/word-break/" target="_blank" rel="external">leetcode.com/problems/word-break</a></cite></footer></blockquote>
+<h2 id="Analyse"><a href="#Analyse" class="headerlink" title="Analyse"></a>Analyse</h2><p>The problem can be solved by Dynamic Programming. We use an array dp to stock the information that a substring s[0..i] 
+can be broken into words not not. When checking a s[0..j] is breakable or not, we look for i where s[0..i] is breakable
+and s[i..j] is an word in dictionary.</p>
+<h2 id="Solution-in-Java"><a href="#Solution-in-Java" class="headerlink" title="Solution in Java"></a>Solution in Java</h2><figure class="highlight processing"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="built_in">boolean</span> wordBreak(<span class="keyword">String</span> s, Set&lt;<span class="keyword">String</span>&gt; wordDict) &#123;</div><div class="line">    </div><div class="line">    <span class="built_in">int</span> n = s.length();</div><div class="line">    <span class="built_in">boolean</span>[] dp = <span class="keyword">new</span> <span class="built_in">boolean</span>[n+<span class="number">1</span>];</div><div class="line"></div><div class="line">    <span class="keyword">for</span>(<span class="built_in">int</span> j = <span class="number">1</span>; j&lt;=n;j++)&#123;</div><div class="line">        <span class="keyword">for</span>(<span class="built_in">int</span> i=j<span class="number">-1</span>; i&gt;=<span class="number">0</span>; i--)&#123;</div><div class="line">            <span class="keyword">if</span>((i==<span class="number">0</span> || dp[i]) &amp;&amp; wordDict.contains(s.substring(i,j)))&#123;</div><div class="line">                dp[j] = <span class="keyword">true</span>;</div><div class="line">                <span class="keyword">break</span>;</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">    <span class="keyword">return</span> dp[n];</div><div class="line">&#125;</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Problem&quot;&gt;&lt;a href=&quot;#Problem&quot; class=&quot;headerlink&quot; title=&quot;Problem&quot;&gt;&lt;/a&gt;Problem&lt;/h2&gt;&lt;blockquote&gt;&lt;p&gt;Given a string s and a dictionary of w
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://longweiquan.github.com/categories/LeetCode/"/>
+    
+    
+      <category term="Dynamic Programming" scheme="http://longweiquan.github.com/tags/Dynamic-Programming/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode - Best Time to Buy and Sell Stock IV</title>
+    <link href="http://longweiquan.github.com/2015/08/23/Best-Time-to-Buy-and-Sell-Stock-IV/"/>
+    <id>http://longweiquan.github.com/2015/08/23/Best-Time-to-Buy-and-Sell-Stock-IV/</id>
+    <published>2015-08-23T08:49:01.000Z</published>
+    <updated>2016-11-11T19:06:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Leetcode - Best Time to Buy and Sell Stock IV Solution</p>
+<a id="more"></a>
+<h2 id="Problem"><a href="#Problem" class="headerlink" title="Problem"></a>Problem</h2><blockquote><p>Say you have an array for which the ith element is the price of a given stock on day i.
+Design an algorithm to find the maximum profit. You may complete at most k transactions.</p>
+<footer><strong>@LeetCode</strong><cite><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/" target="_blank" rel="external">leetcode.com/problems/best-time-to-buy-and-sell-stock-iv</a></cite></footer></blockquote>
+<h2 id="Analyse"><a href="#Analyse" class="headerlink" title="Analyse"></a>Analyse</h2><p>This problem can be solved by Dynamic Programming. Note, DP is good at solving best solution problems. We will use two
+dimensional DP solution because the prices length and the transaction times will impact the results.</p>
+<p>In DP problem, we need to find out the states and the approaches to reach next states. In this problem, an obvious state
+is the best profits, note globalMax[][]. An implicit state is the best profits with the last selling on the last day, 
+note lastMax[][]. And the best profit is between making the last transaction on the last day or not.
+<figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">// i represents days and j represents transactions</div><div class="line">global[<span class="string">i</span>][<span class="symbol">j</span>] = Max(global[<span class="string">i-1</span>][<span class="symbol">j</span>], lastMax[<span class="string">i</span>][<span class="symbol">j</span>])</div></pre></td></tr></table></figure></p>
+<p>The problem is now transformed to calculate lastMax[i][j]. We have two approaches. The first one is based on the best 
+profits until i-1 day with j-1 transaction and add a new transaction on the last day. The second approach based on the 
+best profits with the last transaction on i-1 day, so we replace the last transaction to the i day.
+<figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">// prices represent the prices of stock</div><div class="line">diff = prices[i] - prices[i-1];</div><div class="line">lastMax[<span class="string">i</span>][<span class="symbol">j</span>] = Max(global[<span class="string">i-1</span>][<span class="symbol">j-1</span>]+diff, lastMax[<span class="string">i-1</span>][<span class="symbol">j</span>]+diff)</div></pre></td></tr></table></figure></p>
+<h2 id="Solution-in-Java"><a href="#Solution-in-Java" class="headerlink" title="Solution in Java"></a>Solution in Java</h2><figure class="highlight arduino"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">public</span> <span class="keyword">int</span> maxProfit(<span class="keyword">int</span> k, <span class="keyword">int</span>[] prices) &#123;</div><div class="line"></div><div class="line">    <span class="keyword">int</span> n = prices.length;</div><div class="line">    <span class="built_in">if</span> (n &lt; <span class="number">2</span> || k &lt;= <span class="number">0</span>)&#123;</div><div class="line">        <span class="built_in">return</span> <span class="number">0</span>;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="comment">// Dynamic Programming Data Array</span></div><div class="line"></div><div class="line">    <span class="comment">// Best profit array with last transaction on the last day</span></div><div class="line">    <span class="keyword">int</span>[][] lastMax = <span class="keyword">new</span> <span class="keyword">int</span>[n][k + <span class="number">1</span>];</div><div class="line"></div><div class="line">    <span class="comment">// Best profit array</span></div><div class="line">    <span class="keyword">int</span>[][] globalMax = <span class="keyword">new</span> <span class="keyword">int</span>[n][k + <span class="number">1</span>];</div><div class="line"></div><div class="line">    <span class="built_in">for</span> (<span class="keyword">int</span> i = <span class="number">1</span>; i &lt; n; i++) &#123;</div><div class="line">        <span class="built_in">for</span> (<span class="keyword">int</span> j = <span class="number">1</span>; j &lt;= k; j++) &#123;</div><div class="line">            <span class="keyword">int</span> diff = prices[i] - prices[i - <span class="number">1</span>];</div><div class="line"></div><div class="line">            <span class="comment">// do a new transaction on the last day</span></div><div class="line">            <span class="comment">// or replace the last transaction if it was made yesterday</span></div><div class="line">            lastMax[i][j] = Math.<span class="built_in">max</span>(globalMax[i - <span class="number">1</span>][j - <span class="number">1</span>], lastMax[i - <span class="number">1</span>][j]) + diff;</div><div class="line"></div><div class="line">            <span class="comment">// Make the last transaction on the last day or not</span></div><div class="line">            globalMax[i][j] = Math.<span class="built_in">max</span>(globalMax[i - <span class="number">1</span>][j], lastMax[i][j]);</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="built_in">return</span> globalMax[n - <span class="number">1</span>][k];</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Leetcode - Best Time to Buy and Sell Stock IV Solution&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="LeetCode" scheme="http://longweiquan.github.com/categories/LeetCode/"/>
+    
+    
+      <category term="Dynamic Programming" scheme="http://longweiquan.github.com/tags/Dynamic-Programming/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo powered blog</title>
+    <link href="http://longweiquan.github.com/2015/05/27/hexo/"/>
+    <id>http://longweiquan.github.com/2015/05/27/hexo/</id>
+    <published>2015-05-27T13:52:31.000Z</published>
+    <updated>2015-10-23T22:00:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello everyone, welcome to my blog. In my first post, 
+I will introduce you how to build a cool blog using Githup Pages and Hexo.</p>
+<h2 id="Githup-Pages"><a href="#Githup-Pages" class="headerlink" title="Githup Pages"></a>Githup Pages</h2><p><a href="https://pages.github.com/" target="_blank" rel="external">Github Pages</a> is designed to build static websites, Blog is one of typical use case. 
+A Githup Page is hosted directly from a <a href="https://github.com/" target="_blank" rel="external">Github repository</a>, e.g. this blog is hosted on 
+<a href="https://github.com/longweiquan/longweiquan.github.io" target="_blank" rel="external">longweiquan.github.io</a>.</p>
+<h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><p>Hexo is blog framework. We can write blog in <a href="http://daringfireball.net/projects/markdown/" target="_blank" rel="external">Markdown</a> 
+(or other template languages) and Hexo will generate the static files with a beautiful theme.</p>
+<h2 id="Installation"><a href="#Installation" class="headerlink" title="Installation"></a>Installation</h2><p>First of all, we need to install <a href="https://nodejs.org/" target="_blank" rel="external">NodeJS</a> and <a href="http://git-scm.com/" target="_blank" rel="external">Git</a>.
+Once they are installed, we can install Hexo with the following command.</p>
+<figure class="highlight plain"><figcaption><span>Terminal</span><a href="https://hexo.io/docs/setup.html" target="_blank" rel="external">Hexo</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install -g hexo-cli</div></pre></td></tr></table></figure>
+<p>Then we can create our blog with the Hexo commands</p>
+<figure class="highlight stylus"><figcaption><span>Terminal</span><a href="https://hexo.io/docs/setup.html" target="_blank" rel="external">Hexo</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">hexo init longweiquan<span class="selector-class">.github</span><span class="selector-class">.io</span></div><div class="line">cd longweiquan<span class="selector-class">.github</span><span class="selector-class">.io</span></div><div class="line">npm install</div></pre></td></tr></table></figure>
+<p>Our blog is now ready, we can start a local server and test it on <a href="http://localhost:4000" target="_blank" rel="external">http://localhost:4000</a>.</p>
+<figure class="highlight plain"><figcaption><span>Terminal</span><a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Hexo</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo server</div></pre></td></tr></table></figure>
+<h2 id="Deployment"><a href="#Deployment" class="headerlink" title="Deployment"></a>Deployment</h2><p>So it’s very easy to build a blog in a local server, but how to deploy it to Githup Page ? We need some more steps.</p>
+<p>Firstly, we need to install a Hexo plugin.</p>
+<figure class="highlight plain"><figcaption><span>Terminal</span><a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Hexo</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm install hexo-deployer-git --save</div></pre></td></tr></table></figure>
+<p>Then edit the configuration /_config.yml</p>
+<figure class="highlight less"><figcaption><span>_condig.yml</span><a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Hexo</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="attribute">deploy</span>:</div><div class="line">  <span class="attribute">type</span>: git</div><div class="line">  <span class="attribute">repo</span>: <span class="attribute">https</span>:<span class="comment">//github.com/longweiquan/longweiquan.github.io.git</span></div><div class="line">  <span class="attribute">branch</span>: master</div></pre></td></tr></table></figure>
+<p>Then generate the static files and deploy it Githup Pages.</p>
+<figure class="highlight plain"><figcaption><span>Terminal</span><a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Hexo</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo deploy --generate</div></pre></td></tr></table></figure>
+<h2 id="Theme"><a href="#Theme" class="headerlink" title="Theme"></a>Theme</h2><p>Our blog is too simple, we will add a theme on it. Hexo has a flexible theme system, we can choose and switch theme very
+easily. Our blog use <a href="http://theme-next.iissnan.com/" target="_blank" rel="external">Next</a>.</p>
+<p>Download the Next theme to the /themes folder.</p>
+<figure class="highlight plain"><figcaption><span>Terminal</span><a href="http://theme-next.iissnan.com/five-minutes-setup.html" target="_blank" rel="external">Next</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git clone https://github.com/iissnan/hexo-theme-next themes/next</div></pre></td></tr></table></figure>
+<p>Edit _config.yml to use Next</p>
+<figure class="highlight autoit"><figcaption><span>_.config.yml</span><a href="http://theme-next.iissnan.com/five-minutes-setup.html" target="_blank" rel="external">Next</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">theme: <span class="keyword">next</span></div></pre></td></tr></table></figure>
+<h2 id="Configuration"><a href="#Configuration" class="headerlink" title="Configuration"></a>Configuration</h2><p>Turn off line break transformation, add folowing code to _config.yml
+<figure class="highlight yaml"><figcaption><span>_condig.yml</span><a href="https://github.com/hexojs/hexo-renderer-marked" target="_blank" rel="external">Hexo</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="attr">marked:</span></div><div class="line"><span class="attr">  breaks:</span> <span class="literal">false</span></div></pre></td></tr></table></figure></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hello everyone, welcome to my blog. In my first post, 
+I will introduce you how to build a cool blog using Githup Pages and Hexo.&lt;/p&gt;
+&lt;h2
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://longweiquan.github.com/categories/Hexo/"/>
+    
+    
+      <category term="NodeJS" scheme="http://longweiquan.github.com/tags/NodeJS/"/>
+    
+  </entry>
+  
+</feed>
