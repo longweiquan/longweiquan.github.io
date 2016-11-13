@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://longweiquan.github.com/"/>
-  <updated>2016-11-13T00:04:35.000Z</updated>
+  <updated>2016-11-13T00:10:22.000Z</updated>
   <id>http://longweiquan.github.com/</id>
   
   <author>
@@ -16,13 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>&lt;Getting Things Done&gt; 听书笔记</title>
+    <title>&lt;Getting Things Done&gt; &quot;Getting Things Done&quot; 听书笔记</title>
     <link href="http://longweiquan.github.com/2016/11/12/getting-things-done-listening-notes/"/>
     <id>http://longweiquan.github.com/2016/11/12/getting-things-done-listening-notes/</id>
     <published>2016-11-12T20:44:09.000Z</published>
-    <updated>2016-11-13T00:04:35.000Z</updated>
+    <updated>2016-11-13T00:10:22.000Z</updated>
     
-    <content type="html"><![CDATA[<p>这是听樊登读 “Getting Things Done” 的听书笔记. 这是一本关于时间管理的书，又是一本超出时间管理的书，让我们看看作者的具体观点。</p>
+    <content type="html"><![CDATA[<p>这是樊登读 “Getting Things Done” 的听书笔记. 这是一本关于时间管理的书，又是一本超出时间管理的书，让我们看看作者的具体观点。</p>
 <a id="more"></a>
 <h2 id="请看这里"><a href="#请看这里" class="headerlink" title="请看这里"></a>请看这里</h2><ul>
 <li>本文是樊登读书笔记的再笔记，是樊登笔记和个人体会的融合，不完全忠实原著和樊登的观点，请分别对待。</li>
@@ -118,7 +118,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;这是听樊登读 “Getting Things Done” 的听书笔记. 这是一本关于时间管理的书，又是一本超出时间管理的书，让我们看看作者的具体观点。&lt;/p&gt;
+      &lt;p&gt;这是樊登读 “Getting Things Done” 的听书笔记. 这是一本关于时间管理的书，又是一本超出时间管理的书，让我们看看作者的具体观点。&lt;/p&gt;
     
     </summary>
     
@@ -230,9 +230,9 @@ A ‘.’ means it can represent any one letter.</p>
       <category term="LeetCode" scheme="http://longweiquan.github.com/categories/LeetCode/"/>
     
     
-      <category term="Trie" scheme="http://longweiquan.github.com/tags/Trie/"/>
-    
       <category term="Data Structure" scheme="http://longweiquan.github.com/tags/Data-Structure/"/>
+    
+      <category term="Trie" scheme="http://longweiquan.github.com/tags/Trie/"/>
     
       <category term="DFS" scheme="http://longweiquan.github.com/tags/DFS/"/>
     
@@ -259,9 +259,9 @@ A ‘.’ means it can represent any one letter.</p>
       <category term="LeetCode" scheme="http://longweiquan.github.com/categories/LeetCode/"/>
     
     
-      <category term="Trie" scheme="http://longweiquan.github.com/tags/Trie/"/>
-    
       <category term="Data Structure" scheme="http://longweiquan.github.com/tags/Data-Structure/"/>
+    
+      <category term="Trie" scheme="http://longweiquan.github.com/tags/Trie/"/>
     
   </entry>
   
